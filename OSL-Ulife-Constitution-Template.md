@@ -7,7 +7,7 @@ Martial Arts Club”
 
 The acronym or abbreviation of this group is: TCMA
 
-1.  **Purpose and Objectives**
+2.  **Purpose and Objectives**
 
 The purpose, objectives, mission and/or mandate of organization is outlined
 here:
@@ -40,7 +40,7 @@ workshops, outreach, advocacy, etc. It’s important to talk about the how, the
 medium, and the “product” of your group. (Delete this paragraph when submitting
 the final copy).*
 
-1.  **Membership**
+3.  **Membership**
 
 Membership to the group is open to all the University of Toronto members
 (students, staff, faculty and alumni).
@@ -61,7 +61,7 @@ members. The group must also maintain recognition from the Office of Student
 Life. These requirements are subject to change and should be checked with UTSU
 annually to ensure qualifications are met.
 
-1.  **Executive List and Duties**
+4.  **Executive List and Duties**
 
 The executive committee shall be comprised of four (4) elected officers. These
 include a [President, Vice-President, Secretary, Treasurer].
@@ -136,7 +136,7 @@ The group may appoint Directors or Coordinators for various committees such as
 social committee, publicity committee, and so on; however, such positions do not
 hold executive decision making authority.
 
-**Termination of Executives or General Members:**
+5. **Termination of Executives or General Members:**
 
 Any member of the club who commits an act negatively affecting the interests of
 the club and its members, including non-disclosure of a significant or
@@ -156,7 +156,7 @@ Executive members are subject to the same termination or impeachment process
 and, as determined by the vote, may lose their executive position along with
 their membership to the group.
 
-1.  **Elections**
+6.  **Elections**
 
 The executive committee shall strike the Elections Committee and appoint one (1)
 Chief Returning Officer (CRO) and two (2) Scrutinizers from the general members
@@ -196,7 +196,7 @@ voting.
 
 Term of executive positions shall be from May 1st to April 30th.
 
-1.  **Finances**
+7.  **Finances**
 
 The Treasurer shall keep records of all income and expenses. The Treasurer shall
 present the group’s financial health at the annual general meetings. The
@@ -213,9 +213,9 @@ not provide services and goods at a profit when that profit is used for purposes
 other than those of the organization, and will not pay salaries to some or all
 of its officers.
 
-1.  **Meetings**
+8.  **Meetings**
 
-A) Annual General Meetings (AGMs):
+a) Annual General Meetings (AGMs):
 
 The group shall hold general meetings at least twice per year, i.e. once per
 academic term.
@@ -232,7 +232,7 @@ The executive committee shall meet on a monthly basis where date and times are
 to be set by an executive. The quorum of executive meetings shall be 50%+1 of
 executives.
 
-1.  **Amendments**
+9.  **Amendments**
 
 Any registered U of T members may propose and vote on amendments to this
 constitution. The Executive Committee will administer the process of having
